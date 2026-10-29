@@ -1,0 +1,1465 @@
+[
+  {
+    "name": "Tomato Rice",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "oil"
+    ],
+    "time": 20,
+    "emoji": "🍅",
+    "description": "A quick and flavourful rice dish.",
+    "steps": [
+      "Wash and cook the rice until fluffy.",
+      "Heat oil in a pan and sauté chopped onion.",
+      "Add chopped tomatoes and cook until soft.",
+      "Mix in the cooked rice and season with salt and spices.",
+      "Stir well and serve hot."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 8,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Egg Omelette",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "oil"
+    ],
+    "time": 10,
+    "emoji": "🍳",
+    "description": "A simple protein-rich meal.",
+    "steps": [
+      "Crack the eggs into a bowl and whisk with salt and pepper.",
+      "Chop the onion and tomato into small pieces.",
+      "Heat oil in a pan and sauté the onion briefly.",
+      "Pour in the eggs and add the tomato.",
+      "Cook until the eggs are fully set, fold the omelette, and serve hot."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 180,
+      "protein": 11,
+      "carbs": 3,
+      "fat": 13,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "egg": [
+        "mashed banana (for some baking recipes)",
+        "tofu (for some savory dishes)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "onion",
+      "oil"
+    ],
+    "time": 20,
+    "emoji": "🍚",
+    "description": "A tasty way to use leftover rice.",
+    "steps": [
+      "Cook the rice and let it cool slightly.",
+      "Chop the carrot and onion into small pieces.",
+      "Heat oil in a pan and sauté the onion and carrot until tender.",
+      "Add the cooked rice and season with salt and pepper.",
+      "Stir-fry everything together and serve hot."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 8,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Cheese Sandwich",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "tomato"
+    ],
+    "time": 10,
+    "emoji": "🥪",
+    "description": "A quick snack for lazy days.",
+    "steps": [
+      "Slice the tomato into thin pieces.",
+      "Place cheese and tomato between two slices of bread.",
+      "Heat a pan and lightly grease it with butter or oil.",
+      "Toast the sandwich on both sides until golden and the cheese melts.",
+      "Cut in half and serve warm."
+    ],
+    "category": "Snacks",
+    "nutrition": {
+      "calories": 280,
+      "protein": 11,
+      "carbs": 30,
+      "fat": 12,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "bread": [
+        "whole-wheat bread",
+        "gluten-free bread"
+      ],
+      "cheese": [
+        "dairy-free cheese",
+        "paneer (in suitable cooked dishes)"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ]
+    }
+  },
+  {
+    "name": "Banana Oats",
+    "ingredients": [
+      "banana",
+      "oats",
+      "milk"
+    ],
+    "time": 5,
+    "emoji": "🥣",
+    "description": "An easy breakfast to start your day.",
+    "steps": [
+      "Peel and slice the banana.",
+      "Add oats and milk to a saucepan.",
+      "Cook over low heat, stirring until the oats soften.",
+      "Transfer to a bowl and top with banana slices.",
+      "Serve warm."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 270,
+      "protein": 9,
+      "carbs": 48,
+      "fat": 6,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAQN_ttFtNxPWVNS084lsfnD-yvaPgz9iG04W3OQHfQ&s=10",
+    "substitutions": {
+      "banana": [
+        "apple puree (in some recipes)",
+        "mango"
+      ],
+      "oats": [
+        "flattened rice (poha)",
+        "millet flakes"
+      ],
+      "milk": [
+        "soy milk",
+        "oat milk"
+      ]
+    }
+  },
+  {
+    "name": "Tomato Onion Salad",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "cucumber"
+    ],
+    "time": 5,
+    "emoji": "🥗",
+    "description": "A fresh and crunchy salad.",
+    "steps": [
+      "Wash the tomato and cucumber thoroughly.",
+      "Chop the tomato, cucumber, and onion.",
+      "Place the chopped vegetables in a bowl.",
+      "Mix gently and season with salt and lemon juice if available.",
+      "Serve fresh."
+    ],
+    "category": "Dinner",
+    "nutrition": {
+      "calories": 70,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 2,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCnRFyqot-rPPsuBh3eAwDdNybVVD8wYjdyr2s7p5IQ&s=10",
+    "substitutions": {
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "cucumber": [
+        "lettuce",
+        "carrot"
+      ]
+    }
+  },
+  {
+    "name": "Masala Dosa",
+    "ingredients": [
+      "rice",
+      "urad dal",
+      "potato",
+      "onion",
+      "oil"
+    ],
+    "time": 30,
+    "emoji": "🥞",
+    "description": "Crispy dosa filled with spiced potato masala.",
+    "steps": [
+      "Soak rice and urad dal, grind into batter, and ferment it, or use ready-made dosa batter.",
+      "Boil the potatoes, peel them, and mash them.",
+      "Sauté chopped onion in oil and add the potatoes with salt and spices.",
+      "Spread dosa batter thinly over a hot, lightly oiled pan.",
+      "Cook until crisp, add the potato filling, fold, and serve."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 350,
+      "protein": 7,
+      "carbs": 55,
+      "fat": 11,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "urad dal": [
+        "moong dal (texture may differ)"
+      ],
+      "potato": [
+        "sweet potato",
+        "cauliflower (texture will differ)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Idli Sambar",
+    "ingredients": [
+      "idli batter",
+      "toor dal",
+      "tomato",
+      "onion"
+    ],
+    "time": 25,
+    "emoji": "🍽️",
+    "description": "Soft steamed idlis served with warm sambar.",
+    "steps": [
+      "Pour idli batter into lightly greased idli moulds.",
+      "Steam until the idlis are cooked through.",
+      "Cook the toor dal until soft.",
+      "Simmer the dal with chopped tomato, onion, spices, and water until cooked.",
+      "Serve the hot idlis with sambar."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 5,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTz9CM0a2umTWEy1zo8uDqijVRWJHDLId2biW4Je_T6A&s",
+    "substitutions": {
+      "idli batter": [
+        "dosa batter (texture will differ)"
+      ],
+      "toor dal": [
+        "moong dal",
+        "masoor dal"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ]
+    }
+  },
+  {
+    "name": "Poha",
+    "ingredients": [
+      "poha",
+      "onion",
+      "potato",
+      "peanuts"
+    ],
+    "time": 15,
+    "emoji": "🍋",
+    "description": "Light flattened rice tossed with spices and peanuts.",
+    "steps": [
+      "Rinse the poha briefly and drain it.",
+      "Chop the onion and potato into small pieces.",
+      "Heat oil in a pan and cook the potato until tender.",
+      "Add onion and peanuts, then sauté until fragrant.",
+      "Stir in the poha, season with salt and spices, and cook for a few minutes."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 7,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5W_Jm3tHEaVRRuNhLP-0MxULwN5PdZ51xLLAdfbKrQ&s",
+    "substitutions": {
+      "poha": [
+        "cooked rice (texture will differ)",
+        "millet flakes"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "potato": [
+        "sweet potato",
+        "cauliflower (texture will differ)"
+      ],
+      "peanuts": [
+        "roasted chickpeas",
+        "pumpkin seeds"
+      ]
+    }
+  },
+  {
+    "name": "Upma",
+    "ingredients": [
+      "rava",
+      "onion",
+      "carrot",
+      "oil"
+    ],
+    "time": 15,
+    "emoji": "🥣",
+    "description": "A comforting semolina dish with vegetables.",
+    "steps": [
+      "Dry-roast the rava in a pan until lightly fragrant, then set aside.",
+      "Chop the onion and carrot.",
+      "Heat oil in a pan and sauté the onion and carrot.",
+      "Add water and salt, then bring to a boil.",
+      "Slowly stir in the rava and cook until thick and soft."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 7,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCis6HfpC1HfUP2wWkmscso7v21DuiX6dQ5YYxIsWYw&s=10",
+    "substitutions": {
+      "rava": [
+        "coarse rice flour",
+        "broken wheat (not gluten-free)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": [
+      "wheat flour",
+      "potato",
+      "onion",
+      "oil"
+    ],
+    "time": 25,
+    "emoji": "🫓",
+    "description": "Indian flatbread stuffed with seasoned potato.",
+    "steps": [
+      "Boil the potatoes, peel them, and mash them.",
+      "Mix the potato with chopped onion, salt, and spices.",
+      "Prepare a dough using wheat flour and water.",
+      "Fill portions of dough with the potato mixture and roll into flatbreads.",
+      "Cook on a hot pan with a little oil until both sides are golden and cooked through."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 11,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRLDy_CDrtz2UYgx5Xtb6luruU--r06RlwawhNMQwgA&s=10",
+    "substitutions": {
+      "wheat flour": [
+        "whole-wheat flour",
+        "gluten-free flour blend"
+      ],
+      "potato": [
+        "sweet potato",
+        "cauliflower (texture will differ)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Vegetable Pulao",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "peas",
+      "onion"
+    ],
+    "time": 25,
+    "emoji": "🍚",
+    "description": "Fragrant rice cooked with mixed vegetables.",
+    "steps": [
+      "Wash the rice and drain it.",
+      "Chop the carrot and onion, and prepare the peas.",
+      "Heat oil in a pot and sauté the onion and vegetables with spices.",
+      "Add the rice and the appropriate amount of water.",
+      "Cover and cook until the rice is tender and the water is absorbed."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 310,
+      "protein": 6,
+      "carbs": 53,
+      "fat": 8,
+      "basis": "estimated per serving"
+    },
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2019/07/veg-pulao-featured.jpg",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "peas": [
+        "chopped green beans",
+        "corn"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ]
+    }
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "onion",
+      "butter",
+      "cream"
+    ],
+    "time": 30,
+    "emoji": "🍛",
+    "description": "Paneer cubes in a rich tomato-based gravy.",
+    "steps": [
+      "Chop the tomatoes and onion.",
+      "Heat butter in a pan and sauté the onion until soft.",
+      "Add tomatoes and spices, then cook until soft and blend into a smooth sauce.",
+      "Return the sauce to the pan, add paneer and simmer gently.",
+      "Stir in cream, heat through, and serve."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 390,
+      "protein": 15,
+      "carbs": 18,
+      "fat": 28,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "paneer": [
+        "firm tofu",
+        "cooked chickpeas (texture differs)"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "butter": [
+        "olive oil",
+        "plant-based butter"
+      ],
+      "cream": [
+        "unsweetened cashew cream",
+        "coconut milk (flavor changes)"
+      ]
+    }
+  },
+  {
+    "name": "Chole",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "oil"
+    ],
+    "time": 30,
+    "emoji": "🥘",
+    "description": "Spiced chickpea curry packed with flavor.",
+    "steps": [
+      "Soak dried chickpeas overnight and cook until tender, or use cooked chickpeas.",
+      "Chop the onion and tomato.",
+      "Heat oil in a pan and sauté the onion until golden.",
+      "Add tomato and spices, then cook until soft.",
+      "Add chickpeas and water, simmer until the gravy thickens, and serve."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 300,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 9,
+      "basis": "estimated per serving"
+    },
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2023/04/Punjabi-Chole-Masala.jpg",
+    "substitutions": {
+      "chickpeas": [
+        "cooked kidney beans",
+        "cooked white beans"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Lemon Rice",
+    "ingredients": [
+      "rice",
+      "lemon",
+      "peanuts",
+      "oil"
+    ],
+    "time": 15,
+    "emoji": "🍋",
+    "description": "Tangy South Indian rice with a crunchy tempering.",
+    "steps": [
+      "Cook the rice and allow it to cool slightly.",
+      "Heat oil in a pan and sauté the peanuts until crunchy.",
+      "Add suitable tempering spices if available.",
+      "Turn off the heat and mix in lemon juice and salt.",
+      "Add the rice, mix gently, and serve."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 290,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 9,
+      "basis": "estimated per serving"
+    },
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2023/03/lemon-rice-stovetop-featured-500x500.jpg",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "lemon": [
+        "lime",
+        "a small amount of vinegar"
+      ],
+      "peanuts": [
+        "roasted chickpeas",
+        "pumpkin seeds"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Curd Rice",
+    "ingredients": [
+      "rice",
+      "curd",
+      "milk",
+      "oil"
+    ],
+    "time": 10,
+    "emoji": "🥣",
+    "description": "Cooling curd rice, perfect for a simple meal.",
+    "steps": [
+      "Cook the rice until soft and allow it to cool until warm.",
+      "Mash the rice gently with a spoon.",
+      "Mix in curd and a little milk until creamy.",
+      "Heat a little oil and prepare a simple seasoning if desired.",
+      "Mix the seasoning into the rice and serve."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 7,
+      "basis": "estimated per serving"
+    },
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/curd-rice-thayir-sadam.jpg",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "curd": [
+        "unsweetened plant-based yogurt",
+        "plain yogurt"
+      ],
+      "milk": [
+        "soy milk",
+        "oat milk"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "ingredients": [
+      "rice",
+      "chicken",
+      "carrot",
+      "egg",
+      "onion"
+    ],
+    "time": 25,
+    "emoji": "🍗",
+    "description": "Savory fried rice with chicken and vegetables.",
+    "steps": [
+      "Cook the rice and set it aside.",
+      "Cut the chicken into small pieces and chop the vegetables.",
+      "Cook the chicken thoroughly in a hot pan with oil.",
+      "Add the onion and carrot, then cook the egg until fully set.",
+      "Add the rice, season, stir-fry together, and serve hot."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 11,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabpV0x1Q0EfRDu2Hb0a7QBUWHvZpewq9aVMxmtSs03A&s=10",
+    "substitutions": {
+      "rice": [
+        "quinoa",
+        "cauliflower rice"
+      ],
+      "chicken": [
+        "firm tofu (vegetarian)",
+        "chickpeas (vegetarian; texture differs)"
+      ],
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "egg": [
+        "mashed banana (for some baking recipes)",
+        "tofu (for some savory dishes)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ]
+    }
+  },
+  {
+    "name": "Veggie Wrap",
+    "ingredients": [
+      "tortilla",
+      "lettuce",
+      "tomato",
+      "cheese"
+    ],
+    "time": 10,
+    "emoji": "🌯",
+    "description": "A quick wrap filled with fresh vegetables and cheese.",
+    "steps": [
+      "Wash the lettuce and tomato thoroughly.",
+      "Slice the tomato and tear the lettuce into smaller pieces.",
+      "Warm the tortilla briefly in a pan.",
+      "Add lettuce, tomato, and cheese down the middle.",
+      "Fold in the sides, roll tightly, and serve."
+    ],
+    "category": "Lunch",
+    "nutrition": {
+      "calories": 270,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 10,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "tortilla": [
+        "flatbread",
+        "lettuce leaves (low-carb wrap)"
+      ],
+      "lettuce": [
+        "cabbage",
+        "spinach"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "cheese": [
+        "dairy-free cheese",
+        "paneer (in suitable cooked dishes)"
+      ]
+    }
+  },
+  {
+    "name": "Tomato Pasta",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "cheese"
+    ],
+    "time": 20,
+    "emoji": "🍝",
+    "description": "Pasta tossed in a simple tomato and garlic sauce.",
+    "steps": [
+      "Boil the pasta in water until tender, then drain.",
+      "Chop the tomatoes and garlic.",
+      "Heat oil in a pan and sauté the garlic briefly.",
+      "Add the tomatoes and cook until they form a soft sauce.",
+      "Mix in the pasta, top with cheese, and serve."
+    ],
+    "category": "Dinner",
+    "nutrition": {
+      "calories": 330,
+      "protein": 11,
+      "carbs": 52,
+      "fat": 9,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "pasta": [
+        "whole-wheat pasta",
+        "gluten-free pasta"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "garlic": [
+        "garlic powder (use less)",
+        "omit if unavailable"
+      ],
+      "cheese": [
+        "dairy-free cheese",
+        "paneer (in suitable cooked dishes)"
+      ]
+    }
+  },
+  {
+    "name": "Vegetable Soup",
+    "ingredients": [
+      "carrot",
+      "onion",
+      "tomato",
+      "peas"
+    ],
+    "time": 20,
+    "emoji": "🍲",
+    "description": "A warm soup made with colorful vegetables.",
+    "steps": [
+      "Wash and chop the carrot, onion, and tomato.",
+      "Heat a little oil in a pot and sauté the onion.",
+      "Add the carrot, tomato, peas, and water or stock.",
+      "Simmer until the vegetables are tender.",
+      "Season with salt and pepper, then serve warm."
+    ],
+    "category": "Dinner",
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 3,
+      "basis": "estimated per serving"
+    },
+    "image": "https://thekitchengirl.com/wp-content/uploads/vegetable-soup-recipe-a_51-2.jpg",
+    "substitutions": {
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "peas": [
+        "chopped green beans",
+        "corn"
+      ]
+    }
+  },
+  {
+    "name": "Chickpea Salad",
+    "ingredients": [
+      "chickpeas",
+      "cucumber",
+      "tomato",
+      "lemon"
+    ],
+    "time": 10,
+    "emoji": "🥗",
+    "description": "A refreshing salad with chickpeas and vegetables.",
+    "steps": [
+      "Drain and rinse cooked chickpeas.",
+      "Wash and chop the cucumber and tomato.",
+      "Combine the chickpeas and vegetables in a bowl.",
+      "Add lemon juice, salt, and pepper.",
+      "Toss gently and serve fresh."
+    ],
+    "category": "Dinner",
+    "nutrition": {
+      "calories": 230,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 6,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "chickpeas": [
+        "cooked kidney beans",
+        "cooked white beans"
+      ],
+      "cucumber": [
+        "lettuce",
+        "carrot"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "lemon": [
+        "lime",
+        "a small amount of vinegar"
+      ]
+    }
+  },
+  {
+    "name": "Paneer Bhurji",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "oil"
+    ],
+    "time": 15,
+    "emoji": "🍳",
+    "description": "Crumbled paneer cooked with onions and spices.",
+    "steps": [
+      "Crumble the paneer into small pieces.",
+      "Chop the onion and tomato.",
+      "Heat oil in a pan and sauté the onion until soft.",
+      "Add tomato and spices, then cook until the tomato softens.",
+      "Mix in the paneer, cook for a few minutes, and serve hot."
+    ],
+    "category": "Dinner",
+    "nutrition": {
+      "calories": 300,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 21,
+      "basis": "estimated per serving"
+    },
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Paneer-Bhurji.jpg",
+    "substitutions": {
+      "paneer": [
+        "firm tofu",
+        "cooked chickpeas (texture differs)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "French Toast",
+    "ingredients": [
+      "bread",
+      "egg",
+      "milk",
+      "sugar"
+    ],
+    "time": 10,
+    "emoji": "🍞",
+    "description": "Golden bread dipped in an egg and milk mixture.",
+    "steps": [
+      "Whisk the egg, milk, and sugar together in a shallow bowl.",
+      "Dip each slice of bread into the mixture.",
+      "Heat a lightly greased pan over medium heat.",
+      "Cook the bread on both sides until golden and the egg is fully set.",
+      "Serve warm."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 260,
+      "protein": 11,
+      "carbs": 32,
+      "fat": 9,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "bread": [
+        "whole-wheat bread",
+        "gluten-free bread"
+      ],
+      "egg": [
+        "mashed banana (for some baking recipes)",
+        "tofu (for some savory dishes)"
+      ],
+      "milk": [
+        "soy milk",
+        "oat milk"
+      ],
+      "sugar": [
+        "jaggery (flavor differs)",
+        "omit or reduce to taste"
+      ]
+    }
+  },
+  {
+    "name": "Banana Pancakes",
+    "ingredients": [
+      "banana",
+      "wheat flour",
+      "milk",
+      "egg"
+    ],
+    "time": 15,
+    "emoji": "🥞",
+    "description": "Soft pancakes with naturally sweet banana.",
+    "steps": [
+      "Mash the banana in a bowl.",
+      "Mix in the wheat flour, milk, and egg until combined.",
+      "Heat a lightly greased pan over medium-low heat.",
+      "Pour small portions of batter into the pan and cook until bubbles form.",
+      "Flip and cook the other side until done, then serve."
+    ],
+    "category": "Breakfast",
+    "nutrition": {
+      "calories": 290,
+      "protein": 9,
+      "carbs": 45,
+      "fat": 8,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "banana": [
+        "apple puree (in some recipes)",
+        "mango"
+      ],
+      "wheat flour": [
+        "whole-wheat flour",
+        "gluten-free flour blend"
+      ],
+      "milk": [
+        "soy milk",
+        "oat milk"
+      ],
+      "egg": [
+        "mashed banana (for some baking recipes)",
+        "tofu (for some savory dishes)"
+      ]
+    }
+  },
+  {
+    "name": "Masala Corn",
+    "ingredients": [
+      "corn",
+      "lemon",
+      "butter"
+    ],
+    "time": 10,
+    "emoji": "🌽",
+    "description": "Sweet corn tossed with butter and lemon.",
+    "steps": [
+      "Cook the corn until tender, then drain.",
+      "Add butter to a warm pan or bowl.",
+      "Mix the hot corn with the butter.",
+      "Add lemon juice, salt, and spices to taste.",
+      "Mix well and serve warm."
+    ],
+    "category": "Snacks",
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 6,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXot1qosCPPgQAUn4ndiEIetEOdWgqZYEEEagAlF3Cg-qbUrzy",
+    "substitutions": {
+      "corn": [
+        "peas",
+        "diced carrot"
+      ],
+      "lemon": [
+        "lime",
+        "a small amount of vinegar"
+      ],
+      "butter": [
+        "olive oil",
+        "plant-based butter"
+      ]
+    }
+  },
+  {
+    "name": "Peanut Chaat",
+    "ingredients": [
+      "peanuts",
+      "onion",
+      "tomato",
+      "lemon"
+    ],
+    "time": 10,
+    "emoji": "🥜",
+    "description": "A crunchy, tangy snack with peanuts and vegetables.",
+    "steps": [
+      "Use cooked or roasted peanuts.",
+      "Wash and finely chop the onion and tomato.",
+      "Combine the peanuts and chopped vegetables in a bowl.",
+      "Add lemon juice, salt, and spices to taste.",
+      "Mix well and serve immediately."
+    ],
+    "category": "Snacks",
+    "nutrition": {
+      "calories": 220,
+      "protein": 9,
+      "carbs": 18,
+      "fat": 14,
+      "basis": "estimated per serving"
+    },
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6ZtMFaHTJjgjzYs2GdxGdghwwR-dYV-C4qu0cZlv92gwEufc3",
+    "substitutions": {
+      "peanuts": [
+        "roasted chickpeas",
+        "pumpkin seeds"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "lemon": [
+        "lime",
+        "a small amount of vinegar"
+      ]
+    }
+  },
+  {
+    "name": "Chicken Curry",
+    "category": "Dinner",
+    "dietType": "Non-vegetarian",
+    "emoji": "🍗",
+    "time": 35,
+    "description": "Tender chicken cooked in a flavorful Indian-style curry.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "ginger garlic paste",
+      "spices",
+      "oil"
+    ],
+    "steps": [
+      "Heat oil and sauté chopped onions until golden.",
+      "Add ginger garlic paste, tomatoes and spices.",
+      "Add chicken and mix until coated.",
+      "Add water, cover and cook until the chicken is thoroughly cooked.",
+      "Serve hot with rice or chapati."
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 22,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "chicken": [
+        "firm tofu (vegetarian)",
+        "chickpeas (vegetarian; texture differs)"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "tomato": [
+        "red bell pepper",
+        "canned tomato"
+      ],
+      "ginger garlic paste": [
+        "fresh minced ginger and garlic",
+        "garlic paste with ginger added"
+      ],
+      "spices": [
+        "a suitable spice blend",
+        "individual spices to taste"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Chicken Sandwich",
+    "category": "Breakfast",
+    "dietType": "Non-vegetarian",
+    "emoji": "🥪",
+    "time": 15,
+    "description": "A quick sandwich filled with seasoned cooked chicken.",
+    "ingredients": [
+      "cooked chicken",
+      "bread",
+      "onion",
+      "lettuce",
+      "pepper"
+    ],
+    "steps": [
+      "Shred the thoroughly cooked chicken.",
+      "Mix with chopped onion and pepper.",
+      "Place the filling and lettuce between bread slices.",
+      "Toast lightly if desired and serve."
+    ],
+    "nutrition": {
+      "calories": 310,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 9,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "cooked chicken": [
+        "cooked tofu (vegetarian)",
+        "cooked chickpeas (vegetarian)"
+      ],
+      "bread": [
+        "whole-wheat bread",
+        "gluten-free bread"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "lettuce": [
+        "cabbage",
+        "spinach"
+      ],
+      "pepper": [
+        "white pepper",
+        "mild paprika"
+      ]
+    }
+  },
+  {
+    "name": "Fish Fry",
+    "category": "Lunch",
+    "dietType": "Non-vegetarian",
+    "emoji": "🐟",
+    "time": 25,
+    "description": "Fish coated with spices and pan-fried until cooked.",
+    "ingredients": [
+      "fish fillets",
+      "chilli powder",
+      "turmeric",
+      "lemon juice",
+      "oil"
+    ],
+    "steps": [
+      "Clean the fish and pat dry.",
+      "Mix chilli powder, turmeric and lemon juice.",
+      "Coat the fish with the spice mixture.",
+      "Pan-fry until the fish is opaque and cooked through.",
+      "Serve hot."
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 24,
+      "carbs": 8,
+      "fat": 13,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "fish fillets": [
+        "firm tofu (vegetarian; texture differs)",
+        "chicken (not vegetarian)"
+      ],
+      "chilli powder": [
+        "paprika",
+        "mild chilli flakes"
+      ],
+      "turmeric": [
+        "curry powder (flavor differs)",
+        "omit if unavailable"
+      ],
+      "lemon juice": [
+        "lime juice",
+        "a small amount of vinegar"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Egg Fried Rice",
+    "category": "Lunch",
+    "dietType": "Non-vegetarian",
+    "emoji": "🍳",
+    "time": 20,
+    "description": "Rice stir-fried with scrambled eggs and vegetables.",
+    "ingredients": [
+      "cooked rice",
+      "eggs",
+      "carrot",
+      "spring onion",
+      "soy sauce",
+      "oil"
+    ],
+    "steps": [
+      "Scramble the eggs in a heated pan and set aside.",
+      "Stir-fry the chopped vegetables.",
+      "Add cooked rice and soy sauce.",
+      "Mix in the eggs and cook until heated through.",
+      "Serve hot."
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 11,
+      "carbs": 49,
+      "fat": 10,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "cooked rice": [
+        "quinoa",
+        "cooked millet"
+      ],
+      "eggs": [
+        "tofu (for some savory dishes)",
+        "chickpea flour mixture (for some savory dishes)"
+      ],
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "spring onion": [
+        "chopped onion",
+        "chives"
+      ],
+      "soy sauce": [
+        "tamari (check gluten label)",
+        "a little salt (flavor differs)"
+      ],
+      "oil": [
+        "olive oil",
+        "butter"
+      ]
+    }
+  },
+  {
+    "name": "Chicken Soup",
+    "category": "Snacks",
+    "dietType": "Non-vegetarian",
+    "emoji": "🍲",
+    "time": 30,
+    "description": "A warm soup made with chicken and vegetables.",
+    "ingredients": [
+      "chicken",
+      "carrot",
+      "onion",
+      "garlic",
+      "water",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chicken thoroughly in water with garlic.",
+      "Add chopped carrot and onion.",
+      "Simmer until the vegetables are tender.",
+      "Shred the cooked chicken and return it to the soup.",
+      "Season with pepper and serve hot."
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 22,
+      "carbs": 12,
+      "fat": 5,
+      "basis": "estimated per serving"
+    },
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=900&q=85",
+    "substitutions": {
+      "chicken": [
+        "firm tofu (vegetarian)",
+        "chickpeas (vegetarian; texture differs)"
+      ],
+      "carrot": [
+        "bell pepper",
+        "zucchini"
+      ],
+      "onion": [
+        "shallot",
+        "spring onion"
+      ],
+      "garlic": [
+        "garlic powder (use less)",
+        "omit if unavailable"
+      ],
+      "water": [
+        "vegetable stock (if suitable)",
+        "chicken stock (non-vegetarian)"
+      ],
+      "pepper": [
+        "white pepper",
+        "mild paprika"
+      ]
+    }
+  }
+]

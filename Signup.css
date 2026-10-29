@@ -1,0 +1,178 @@
+
+.auth-page {
+  min-height: 100vh;
+  background: #f6f8f4;
+  color: #183b2b;
+}
+
+.auth-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 16px;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 460px;
+  padding: 32px;
+  background: white;
+  border: 1px solid #e0e9df;
+  border-radius: 20px;
+  box-shadow: 0 12px 35px rgba(32, 70, 44, 0.07);
+}
+
+.auth-heading {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.auth-eyebrow {
+  color: #348252;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+}
+
+.auth-heading h1 {
+  margin: 12px 0;
+  font-size: 30px;
+}
+
+.auth-heading p {
+  color: #68776b;
+  line-height: 1.6;
+}
+
+.auth-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.auth-card label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.auth-card input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d7e2d7;
+  border-radius: 9px;
+  background: #fbfdfb;
+  font: inherit;
+}
+
+.auth-card input:focus {
+  outline: 2px solid #c5e3cd;
+  border-color: #388653;
+}
+
+.auth-submit {
+  padding: 13px;
+  border: none;
+  border-radius: 9px;
+  background: #267447;
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.auth-submit:hover {
+  background: #1d6039;
+}
+
+.auth-message {
+  margin: 0;
+  color: #267447;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.auth-switch {
+  margin: 22px 0 0;
+  text-align: center;
+  color: #68776b;
+  font-size: 14px;
+}
+
+.auth-switch a {
+  color: #267447;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  .auth-card {
+    padding: 24px 20px;
+  }
+}
+.signup-card h1,
+.signup-card h2 {
+  color: #263b2b;
+}
+
+.signup-card p {
+  color: #596b5e;
+}
+
+.signup-card label {
+  color: #344b39;
+}
+
+.signup-card input {
+  color: #263b2b;
+  background: #ffffff;
+}
+
+.signup-card input::placeholder {
+  color: #8a968c;
+}
+
+/* Fix faded text colors */
+.auth-card {
+  color: #183b2b;
+}
+
+.auth-heading h1 {
+  color: #183b2b !important;
+  opacity: 1;
+}
+
+.auth-heading p {
+  color: #526457 !important;
+  opacity: 1;
+}
+
+.auth-card label {
+  color: #263b2b !important;
+}
+
+.auth-card input {
+  color: #183b2b !important;
+  opacity: 1;
+}
+
+.auth-card input::placeholder {
+  color: #78877b;
+  opacity: 1;
+}
+
+.auth-switch {
+  color: #526457 !important;
+}
+
+.auth-switch a {
+  color: #267447 !important;
+}
+
+.auth-eyebrow {
+  color: #267447 !important;
+}
